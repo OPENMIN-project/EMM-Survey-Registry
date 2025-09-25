@@ -1,0 +1,58 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700&display=swap');
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+@source '../**/*.vue';
+
+
+html {
+  font-family: Merriweather, serif;
+}
+
+.sans-serif {
+  font-family: sans-serif;
+}
+
+.font-lato {
+  font-family: Lato, "Helvetica Neue", Arial, sans-serif;
+}
+
+.bg-white-90\% {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.break-inside-avoid {
+  break-inside: avoid;
+}
+.break-inside-avoid-column {
+  break-inside: avoid-column;
+}
+.max-h-500px {
+  max-height: 500px;
+}
+
+.v--modal {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.vs__dropdown-menu {
+    width: auto;
+    z-index: 50;
+    position: absolute;
+    overscroll-behavior: none;
+}
+
+.style-chooser .vs__dropdown-toggle {
+    background: none;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    color: #394066;
+    text-transform: lowercase;
+    font-variant: small-caps;
+}

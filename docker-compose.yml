@@ -1,0 +1,38 @@
+version: '3'
+services:
+  mysql:
+    image: mysql/mysql-server:5.7.37
+    container_name: ethmig_mysql
+    environment:
+     - MYSQL_DATABASE=ethmig
+     - MYSQL_USER=ethmig
+     - MYSQL_PASSWORD=ethmig
+     - MYSQL_ROOT_PASSWORD=root
+    ports:
+      - '33067:3306'
+    #restart: always
+  mysql_test:
+    image: mysql/mysql-server:5.7.37
+    container_name: ethmig_mysql_test
+    environment:
+      - MYSQL_DATABASE=ethmig
+      - MYSQL_USER=ethmig
+      - MYSQL_PASSWORD=ethmig
+      - MYSQL_ROOT_PASSWORD=root
+    ports:
+      - '39068:3306'
+  elk:
+    image: ${ELK_IMAGE}
+    container_name: ethmig_elk
+    ports:
+      - '9201:9200'
+      - '5045:5044'
+    environment:
+      - discovery.type=single-node
+    restart: always
+  redis:
+    image: redis:alpine
+    container_name: ethmig_redis
+    ports:
+      - '6381:6379'
+    restart: always

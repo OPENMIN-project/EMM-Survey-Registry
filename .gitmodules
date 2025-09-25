@@ -1,0 +1,3 @@
+[submodule "nova-components/NovaMultiselectField"]
+	path = nova-components/NovaMultiselectField
+	url = git@github.com:Donkfather/nova-multiselect-field.git

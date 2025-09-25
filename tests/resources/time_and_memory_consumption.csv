@@ -1,0 +1,320 @@
+1. General identification information about the survey,,,,,,,,
+1.0. Country,NO (Norway),NO (Norway),NO (Norway),NO (Norway),NO (Norway),NO (Norway),NO (Norway),NO (Norway)
+,,,,,,,,
+1.1. ID number (leave blank),NON001,NON002,NON003,NON004,NON005,NON006,NON007,NON008
+,,,,,,,,
+1.2. Acronym,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+1.3. Survey Name Eng.,Election survey among voters with an immigrant background 2013,Municipal Elections 1999,2007 Election survey of non-western immigrants,Voting among immigrants (2011),Voter survey 2015,Life situation among Norwegians born to immigrants in Norway 2016,Living Conditions Among Immigrants in Norway 2016,Level of living among immigrants 2005/2006
+,,,,,,,,
+1.4. Survey Name Nat.,Velgerundersøkelse blant personer med innvandrerbakgrunn 2013,Utenlandske statsborgere og kommunestyrevalget 1999,Lokalvalgsundersøkelse blant innvandrere og norskfødte med innvandrerforeldre 2007,Undersøkelse om stemmegivning blant personer med innvandringsbakgrunn (2011),Velgerundersøkelsen 2015,Levekår blant norskfødte med innvandrerforeldre i Norge 2016,Levekårsundersøkelsen blant personer med innvandrerbakgrunn 2016,Levekår blant innvandrere 2005/2006
+,,,,,,,,
+1.5. Territorial Scope of survey,1.National,1.National,1.National,1.National,1.National,1.National,1.National,1.National
+,,,,,,,,
+1.9. Representative of the population,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+,,,,,,,,
+1.10. Type of survey,1.Single cross-section,1.Single cross-section,2.Repeated cross-section (multiple waves with different samples),2.Repeated cross-section (multiple waves with different samples),2.Repeated cross-section (multiple waves with different samples),2.Repeated cross-section (multiple waves with different samples),2.Repeated cross-section (multiple waves with different samples),2.Repeated cross-section (multiple waves with different samples)
+"1.10a. If ""other"" in 1.10. specify",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+1.11. Starting date of survey ,11/11/2013,9/13/1999,11/5/2007,01/12/2011,10/9/2015,01/11/2015,10/27/2015,9/21/2005
+,,,,,,,,
+1.12. End date of survey,12/7/2013,12/1/1999,12/1/2007,3/1/2012,1/31/2016,01/06/2016,7/9/2016,1/30/2006
+1.12a. Survey in development/not yet completed,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+,,,,,,,,
+1.13. Main topic(s) in the survey [Choose yes/no for each topic below],,,,,,,,
+1.13.1.Asylum seekers and refugee issues,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.2.Citizenship and naturalization,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.3.Consumption and/or leisure,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.4.Demographic characteristics/behaviours,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+"1.13.5.Discrimination, racism and/or xenophobia",0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+"1.13.6.Educational attainment/trajectory, human capital, skills",0.No,0.No,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+"1.13.7.Family reunification, marriage, family relations",0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+"1.13.8.Gender relations, gender identity, sexuality",0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.9.Housing/housing access,1.Yes,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.10.Health/health access,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.11.Human smuggling and trafficking,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+"1.13.12.Identity (ethnic, national, racial, religious) and belonging",1.Yes,0.No,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+1.13.13.Income-related (and/or poverty),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+1.13.14.Interethnic contact & conflict,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.15.Labour market integration,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.16.Language skills/training,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+"1.13.17.Leisure, sports, arts",0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.18.Legal status/administrative situation,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.19.Migration trajectory (past/future),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+"1.13.20.Political inclusion and participation, and social/political attitudes",1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+1.13.21.Public attitudes about migration and  migrants,1.Yes,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.22.Reasons for migration/migration drivers,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.23.Return migration,0.No,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes
+1.13.24.Social cohesion and/or civic engagement and/or networks,0.No,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+"1.13.25.Space use, spatial consequences",0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.26.Time use,1.Yes,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+"1.13.27.Transnational patterns (e.g. remittances, travel, engagement with ‘home’ country politics, etc.) and diasporas",0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+1.13.28.Unaccompanied migrant minors,0.No,0.No,0.No,0.No,0.No,-9.Don't know,0.No,0.No
+1.13.29.Religion,1.Yes,0.No,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+1.13.30.Other,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+"1.13.30a. If ""other"" in 1.13, specify",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+1.14. Main purpose of the survey [Choose yes/no for each purpose below],,,,,,,,
+1.14.1.Research/academic,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+1.14.2.Public policy,0.No,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+1.14.3.Government statistics,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+1.14.4.NGO/ non-profit organisations,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+1.14.5.Commercial,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+1.14.6.Other,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+"1.14a. If ""other"" in 1.14, specify",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+1.15. Coverage of the target population in terms of age,4. Adult population (18+ or 15+) only,4. Adult population (18+ or 15+) only,4. Adult population (18+ or 15+) only,4. Adult population (18+ or 15+) only,4. Adult population (18+ or 15+) only,6. A combination of minors and adults,6. A combination of minors and adults,6. A combination of minors and adults
+,,,,,,,,
+1.16. Coverage of the target population in terms of the sex of the respondents,3. Both men and women,3. Both men and women,3. Both men and women,3. Both men and women,3. Both men and women,3. Both men and women,3. Both men and women,3. Both men and women
+,,,,,,,,
+1.17. Comments relevant to variables in section 1,"For the main topic(s) of the survey (1.13), information on migrant trajectory (1.13.19) and income (1.13.13) are part of the register data, but are not explicitly asked about in the survey. The age coverage for the target population (1.15) is from 18-80 year olds.","For the main topic(s) of the survey (1.13), information on migrant trajectory (1.13.19) and income (1.13.13) are part of the register data, but are not explicitly asked about in the survey. The age coverage for the target population (1.15) is from 18-85+ year olds.","For the main topic(s) of the survey (1.13), information on migrant trajectory (1.13.19) and income (1.13.13) are part of the register data, but are not explicitly asked about in the survey. The age coverage for the target population (1.15) is from 18-60+ year olds.","For the main topic(s) of the survey (1.13), information on migrant trajectory (1.13.19) and income (1.13.13) are part of the register data, but are not explicitly asked about in the survey. The age coverage for the target population (1.15) is from 18-60+ year olds.","The survey name in English (1.3) is not an official translation. For the main topic(s) of the survey (1.13), information on migrant trajectory (1.13.19) and income (1.13.13) are part of the register data, but are not explicitly asked about in the survey. The age coverage for the target population (1.15) is from 18-80+ year olds.","This survey is an addition to the study, Living Conditions Among Immigrants in Norway 2016. The survey name in English (1.3) is not an official translation. The age coverage for the target population (1.15) is from 16 -39 year olds.",The age coverage for the target population (1.15) is from 16-74 year olds.,The age coverage for the target population (1.15) is from 16-25 year olds.
+,,,,,,,,
+2. Information about the inclusion of the survey in the larger study ,,,,,,,,
+2.1. ID number for larger study (leave blank),-999.Not applicable,-999.Not applicable,LES2007,LES2007,LES2007,LCA2005,LCA2005,LCA2005
+,,,,,,,,
+2.2. Study Acronym,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+2.3. Name of the larger study Eng.,-999.Not applicable,-999.Not applicable,Local Election Survey Among Immigrants,Local Election Survey Among Immigrants,Local Election Survey Among Immigrants,Living Conditions Among Immigrants,Living Conditions Among Immigrants,Living Conditions Among Immigrants
+,,,,,,,,
+2.4. Name of the larger study Nat.,-999.Not applicable,-999.Not applicable,Lokalvalgsundersøkelse blant innvandrere,Lokalvalgsundersøkelse blant innvandrere,Lokalvalgsundersøkelse blant innvandrere,Levekårsundersøkelse blant innvandrere,Levekårsundersøkelse blant innvandrere,Levekårsundersøkelse blant innvandrere
+,,,,,,,,
+2.5. Name of other countries/regions/cities Eng.,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+In case of repeated/longitudinal surveys:,,,,,,,,
+2.6. Date of the first survey,-999.Not applicable,-999.Not applicable,11/5/2007,11/5/2007,11/5/2007,9/21/2005,9/21/2005,9/21/2005
+2.7. Frequency of waves/panels,-999.Not applicable,-999.Not applicable,Every four years,Every four years,Every four years,Every ten years,Every ten years,Every ten years
+2.8. Wave number,-999.Not applicable,-999.Not applicable,1,2,3,2,2,1
+,,,,,,,,
+In the case of surveys that are a part of an international survey programme:,,,,,,,,
+2.9. Date when the survey first became a part,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+2.10. Frequency of waves since then,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+If sample is pooled:,,,,,,,,
+2.11. How many surveys pooled,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+2.12. Which other surveys pooled,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+2.12a. Pools emigrants from more than 1 country,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+2.13. Any qualitative studies linked to survey,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+"2.14. If ""Yes"", describe the studies",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+2.15. Additional comments to section 2,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,"This survey, Life situation among Norwegians born to immigrants in Norway 2016, is an addition to the study, Living Conditions Among Immigrants in Norway 2016. This is why the wave number for this survey and Living Conditions Among Immigrants in Norway 2016 is the same.",-999.Not applicable,-999.Not applicable
+,,,,,,,,
+3.Ethnic and migrant minority (EMM) target population,,,,,,,,
+3.1. EMM Target population: which minority group(s) ,1st and 2nd generation immigrants who are entitled to vote,Foreign citizens who are entitled to vote,Non-western immigrants with and without Norwegian citizenship,Immigrants with Norwegian citizenship; Foreign nationals with voting rights,1st and 2nd generation immigrants who are Norwegian citizens; Foreign nationals with voting rights,Norwegian born persons with immigrant parents,1st and 2nd generation immigrants,Immigrants from ten of the largest non-western immigrant countries in Norway
+3.1a. EMM target population with terms standardized,First generation migrants; Second generation migrants; Migrants with voting rights,Foreign citizens; Migrants with voting rights,Non-western; Naturalised migrants; Migrants,Naturalised migrants; Foreign nationals with voting rights,First generation migrants; Second generation migrants; Naturalised migrants; Foreign nationals with voting rights,Persons with migrant parent(s); First generation migrants; Second generation migrants,First generation migrants; Second generation migrants,Migrants
+,,,,,,,,
+3.2 Was the EMM target population…,5.A selection of residents of foreign/immigrant origin or ancestry in the city/region/country,5.A selection of residents of foreign/immigrant origin or ancestry in the city/region/country,5.A selection of residents of foreign/immigrant origin or ancestry in the city/region/country,5.A selection of residents of foreign/immigrant origin or ancestry in the city/region/country,5.A selection of residents of foreign/immigrant origin or ancestry in the city/region/country,3.All residents who are 1st or 2nd generation migrants in the city/region/country,5.A selection of residents of foreign/immigrant origin or ancestry in the city/region/country,5.A selection of residents of foreign/immigrant origin or ancestry in the city/region/country
+"3.2a. If ""other"" in 3.2., describe which",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+3.3.Operationalization of target population [Choose yes/no for each variable below],,,,,,,,
+3.3.1.Country of birth of respondent,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.3.2.Country of birth of parents/grandparents,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.3.3.Citizenship/nationality of respondent (current),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.3.4.Citizenship/nationality of respondent (at birth),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.3.5.Citizenship/nationality of parents/grandparents (current),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.3.6.Citizenship/nationality of parents/grandparents (at birth),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.3.7.Ethnic self-identification of respondent (one response allowed),0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.3.8.Ethnic self-identification of respondent (multiple responses allowed),0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.3.9.Ethnic self-identification of parents/grandparents,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.3.10.Mother tongue/language related question,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.3.11.Classification by interviewer,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+"3.3.12.Classification by third agent /by proxy (e.g. by a government authority, and NGO, a social/cultural mediator, etc.)",1.Yes,1.Yes,0.No,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.3.13.Classification by geographical location,1.Yes,0.No,1.Yes,1.Yes,0.No,0.No,0.No,0.No
+3.3.14.Through other means/characteristics (including non-ethnic/migrant minority-related characteristics),0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.3.15.Information not available on definition of target population,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+ ,,,,,,,,
+"3.3a. If ""other means"" in 3.3., describe which",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+3.4. Migrant/minority related questions [Choose yes/no for each variable below],,,,,,,,
+3.4.1.Country of birth of respondent,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.4.2.Country of birth of parents,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.4.3.Country of birth of grandparents,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.4.4.Nationality of respondent (current),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.4.5.Nationality of respondent (at birth),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.4.6.Nationality of parents (current),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.4.7.Nationality of grandparents (current),0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.4.8.Nationality of parents (at birth),1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+3.4.9.Nationality of grandparents (at birth),0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+3.4.10.Ethnic self-identification of respondent (one response allowed),0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.4.11.Ethnic self-identification of respondent (multiple responses allowed),0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.4.12.Ethnic self-identification of parents,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.4.13.Ethnic self-identification of grandparents,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.4.14.Mother tongue/language related question,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.4.15.Classification by interviewer,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+3.4.16.Information not available on migrant/minority related questions,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+,,,,,,,,
+3.5. Size of the EMM target pop. as a whole,"280,433","101,706","280,433","3,476","554,647","149,657","21,400","10,859"
+,,,,,,,,
+3.6. Survey include subgroup of majority population,0. No,0. No,0. No,0. No,1.Yes,0. No,0. No,0. No
+3.6a. Survey designed as a general population survey,0. No,0. No,0. No,0. No,0. No,0. No,0. No,0. No
+,,,,,,,,
+3.7. Additional comments to section 3,"The migrant/minority related questions (3.4) are not asked explicitly, but are a part of the register data.","The migrant/minority related questions (3.4) are not asked explicitly, but are a part of the register data.","The migrant/minority related questions (3.4) are not asked explicitly, but are a part of the register data.","The migrant/minority related questions (3.4) are not asked explicitly, but are a part of the register data.","The migrant/minority related questions (3.4) are not asked explicitly, but are a part of the register data.","This survey is an addition to the study, Living Conditions Among Immigrants in Norway 2016. The target population (3.1) consists of migrants (16-39 years old) from 4 countries.",-999.Not applicable,-999.Not applicable
+,,,,,,,,
+4. Sampling method,,,,,,,,
+4.1. Sampling strategy - closed,"1.Random sampling/selection (i.e. probability sampling, of some kind)","1.Random sampling/selection (i.e. probability sampling, of some kind)","1.Random sampling/selection (i.e. probability sampling, of some kind)","1.Random sampling/selection (i.e. probability sampling, of some kind)","1.Random sampling/selection (i.e. probability sampling, of some kind)","1.Random sampling/selection (i.e. probability sampling, of some kind)","1.Random sampling/selection (i.e. probability sampling, of some kind)","1.Random sampling/selection (i.e. probability sampling, of some kind)"
+,,,,,,,,
+4.2. Sampling strategy - open,"From the population, a stratified sample was pulled based on region of origin (Europe (EU/EEA), Europa (outside the EU/EEA), Africa, Asia, North-America, South/Central America, Oceania). The sample was pulled from those who actually voted in the last election.",A stratified random sampling was used. 8 strata were identified and were based on citizenship.,"A disproportional stratified sample was pulled based on persons with a background from Asia, Africa, Latin America or East Europe.","Based on information from the electoral register (those who had voted), a sample was pulled and divided into different strata. The two strata were designed as follows: 1,000 respondents with Norwegian citizenship and 1,000 respondents with foreign citizenship. Different samples were then pulled from these two strata based on region.","Random sampling within 3 different strata (1st generation immigrants, 2nd generation immigrants, foreign nationals with voting rights) was used.","The sample was pulled based on the following population: Norwegian born persons over the age of 16 with immigrant parents from Turkey, Pakistan, Sri Lanka, or Vietnam.",A sample was pulled based on 12 different countries of origin.,"The sample was pulled from the following population: those who had lived in Norway for more than two years, and whose origin was from one of the selected countries."
+,,,,,,,,
+4.3. Sample design - full information,"The sample was drawn directly from the electoral roll, though only individuals who actually voted were considered.","A stratified sample of 7,499 foreign citizens with voting rights was pulled. The size of the strata was adjusted to minimize differences in actual size differences and response rates, so that small groups or groups with assumed low response rates could be included.","A sample of 1,307 people with foreign citizenship was pulled, and a sample of 1,842 people with Norwegian citizenship was pulled. The sample was then divided into more strata based on different regions (Asia, Africa, Latin America or East Europe).","Two strata (Norwegians, foreign citizens) was first identified. Different samples were then pulled within these two strata based on region (Africa, Asia (including Turkey), Latin-America, some countries from Europe).","The sample consists of the following populations: Norwegian citizens who are immigrants, Norwegian citizens who are descendants of immigrants, and foreign nationals who had voting rights in the 2015 local elections.","The sample consists of immigrants and Norwegian born persons (age 16-39), with immigrant parents (age 16-74) who have been living in Norway for at least two years as of 1 October 2015 and who are from Turkey, Pakistan, Sri Lanka, or Vietnam."," The sample was taken from twelve countries: Poland, Bosnia-Herzegovina, Kosovo, Turkey, Iraq, Iran, Afghanistan, Pakistan, Sri Lanka, Vietnam, Eritrea and Somalia. The sample is not stratified by gender or age. The data collection was carried out either by personal attendance or by telephone, in the respondent's own language. The response rate totalled just over 54%, with large variations between the countries. The gross sample in some country groups was increased to reach the goal of interviewing 350 immigrants from each of the twelve countries, and interviewing 250 Norwegian born persons from each of the four countries. This was important in order to be able to carry out desired analyses afterwards. Weights are calculated so that they will correct for ender, age, education, region and country background biases.","The survey includes people with an immigrant background and their descendants from one of the ten largest non-western immigrant countries in Norway (Bosnia and Herzegovina, Serbia, Montenegro, Turkey, Iraq, Iran, Pakistan, Sri Lanka, Vietnam, Somalia and Chile)."
+,,,,,,,,
+4.4. Sampling frame(s),"Samples were drawn directly from the electoral roll, but only individuals who voted would be drawn.",Samples were drawn directly from the electoral roll.,Samples were drawn directly from the electoral roll.,Samples were drawn directly from the electoral roll.,Samples were drawn directly from the electoral roll.,-9.Don't know,-9.Don't know,"The basis for the calculation is limited to persons who have been living in Norway for at least two years as of 1 September 2005. In practice, this means individuals who have been a resident of Norway before 1 September 2003 and who are listed as being from one of the ten largest non-western immigrant countries in Norway (the variable ""country background"", which is constructed from registry information on native or mother's/father's country of birth, on Statistics Norway's so-called feeder country file)."
+,,,,,,,,
+4.5. Sampling units,Individuals,Individuals,Individuals,Individuals,Individuals,Individuals,Individuals,Individuals
+,,,,,,,,
+4.6. Comments on sampling methods,The sample was divided into strata (7 different regions) before probability sampling was used.,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+5. Sample size for the overall survey,,,,,,,,
+5.1. Total gross/issued sample,"2,000","7,016",750,"2,000","18,971","1,986","8,156","4,752"
+,,,,,,,,
+5.2. Total net/achieved sample,753,"2,910",437,752,"6,350","1,049","4,435","3,053"
+,,,,,,,,
+5.3. Overall response rate,39,41.9,59,37.7,35,52.8,54.4,64.2
+,,,,,,,,
+5.4. Overall response rate calculated,1.By data producers with no mentioned formula,1.By data producers with no mentioned formula,1.By data producers with no mentioned formula,1.By data producers with no mentioned formula,1.By data producers with no mentioned formula,1.By data producers with no mentioned formula,1.By data producers with no mentioned formula,1.By data producers with no mentioned formula
+"5.5. If ""other"" in 5.4., describe",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+5.6. Comment on any known issues ,-999.Not applicable,-999.Not applicable,"There are biases in that: employed respondents are overrepresented by 3.4 pp, individuals who have lived in Norway for less than 5 years are overrepresented by 2.3 pp, and individuals over 60 are underrepresented by 2.3 pp. ",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+5.7. Are weights provided,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+,,,,,,,,
+5.8. If weights: Please describe,"The weights were designed to compensate for the fact that there are different probabilities for people being drawn into the sample. The weights were calibrated against gender, age, education and regions.","Three weights were provided to compensate for the stratification, response rate and biases.",The weights were constructed as a product of design weight and drop-out weight.,The weights were constructed as a product of design weight and drop-out weight.,"The weights were constructed as a product of design weight and drop-out weight. The weights were calibrated against age, gender, country origin, national regions, educations and party preference.","The weights were calibrated against drop-out bias, gender, age, education and region.","The weights were calibrated against drop-out bias, gender, age, education and region.","Weights were provided, but little information about them is provided."
+,,,,,,,,
+5.9. Additional comments  to section 5,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+6. Sample sizes for any subgroups in which the survey is partitioned,,,,,,,,
+6a1. SG1 Name of sub-group,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,Foreign nationals,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6a2. SG1 Gross/issued sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,"5,523",-999.Not applicable,-999.Not applicable,-999.Not applicable
+6a3. SG1 Net/achieved sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,"2,006",-999.Not applicable,-999.Not applicable,-999.Not applicable
+6a4. SG1 Response rate,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,36,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6a5. SG1 Overall response rate calculated,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,5.Other,-999.Not applicable,-999.Not applicable,-999.Not applicable
+"6a6. SG1 If ""other"" in 6a5., describe",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,"2,006*100/5,523 (net*100/brut)",-999.Not applicable,-999.Not applicable,-999.Not applicable
+6a7. SG1 Comment on any known issues,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+6b1. SG2 Name of sub-group,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,1st generation immigrants,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6b2. SG2 Gross/issued sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,6.338,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6b3. SG2 Net/achieved sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,"1,886",-999.Not applicable,-999.Not applicable,-999.Not applicable
+6b4. SG2 Response rate,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,30,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6b5. SG2 Overall response rate calculated,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,5.Other,-999.Not applicable,-999.Not applicable,-999.Not applicable
+"6b6. SG2 If ""other"" in 6b5., describe",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,"1,886*100/6,338 (net*100/brut)",-999.Not applicable,-999.Not applicable,-999.Not applicable
+6b7. SG2 Comment on any known issues,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+6c1. SG3 Name of sub-group,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,2nd generation immigrants,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6c2. SG3 Gross/issued sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,995,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6c3. SG3 Net/achieved sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,296,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6c4. SG3 Response rate,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,30,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6c5. SG3 Overall response rate calculated,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,5.Other,-999.Not applicable,-999.Not applicable,-999.Not applicable
+"6c6. SG3 If ""other"" in 6c5., describe",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,296*100/995 (net*100/brut),-999.Not applicable,-999.Not applicable,-999.Not applicable
+6c7. SG3 Comment on any known issues,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+6d1. SG4 Name of sub-group,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6d2. SG4 Gross/issued sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6d3. SG4 Net/achieved sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6d4. SG4 Response rate,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6d5. SG4 Overall response rate calculated,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+"6d6. SG4 If ""other"" in 6d5., describe",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6d7. SG4 Comment on any known issues,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+6e1. SG5 Name of sub-group,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6e2. SG5 Gross/issued sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6e3. SG5 Net/achieved sample,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6e4. SG5 Response rate,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6e5. SG5 Overall response rate calculated,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+"6e6. SG5 If ""other"" in 6e5., describe",-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+6e7. SG5 Comment on any known issues,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+6.8. Additional comments  to section 6,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+7. Data collection information,,,,,,,,
+7.1. Name of person/institution/institute  that undertook fieldwork,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå
+,,,,,,,,
+7.2. Data collection mode [Choose yes/no for each topic below],,,,,,,,
+7.2.1. Face to face (PAPI) ,0.No,0.No,0.No,0.No,0.No,1.Yes,1.Yes,1.Yes
+7.2.2. Face to face (CAPI),0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+7.2.3. Telephone,1.Yes,0.No,1.Yes,0.No,0.No,1.Yes,1.Yes,1.Yes
+7.2.4. Web / email survey,0.No,0.No,0.No,1.Yes,1.Yes,0.No,0.No,0.No
+7.2.5. Paper self-administered (collected),0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+7.2.6. Paper self-administered (postal),0.No,1.Yes,0.No,1.Yes,1.Yes,0.No,0.No,0.No
+7.2.7. Other,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+7.2.8. Information not available on data collection mode,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+,,,,,,,,
+For personal interviews:,,,,,,,,
+7.3. Who interviewed,1.Professional interviewers only,-999.Not applicable,1.Professional interviewers only,-999.Not applicable,-999.Not applicable,1.Professional interviewers only,1.Professional interviewers only,1.Professional interviewers only
+7.4. Interviewers spoke migrant languages,"3.No, nobody had targeted language skills",-999.Not applicable,1.Yes,-999.Not applicable,-999.Not applicable,1.Yes,1.Yes,1.Yes
+"7.5. If ""yes"", which",-999.Not applicable,-999.Not applicable,Norwegian; English; Urdu; Somali,-999.Not applicable,-999.Not applicable,"English; Turkish (Turkey); Urdu (Pakistan); Tamil (Sri Lanka); Vietnamese (Vietnam)
+","English; Polish (Poland); Bosnian, Croatian, Serbian (Bosnia and Herzegovina); Albanian (Kosovo); Turkish (Turkey); Arabic (Iraq); Persian/Farsi (Iran); Pashto (Afghanistan); Dari (Afghanistan); Urdu (Pakistan); Tamil (Sri Lanka); Vietnamese (Vietnam); Tigrinya (Eritrea); Somali (Somalia)","Bosnian, Croatian, Serbian (Bosnia and Herzegovina); Turkish (Turkey); Arabic (Iraq); Persian/Farsi (Iran); Urdu (Pakistan); Tamil (Sri Lanka); Vietnamese (Vietnam); Somali (Somalia); Spanish"
+7.5a. Migrant languages in ISO code,-999.Not applicable,-999.Not applicable,NOR; ENG; URD; SOM,-999.Not applicable,-999.Not applicable,ENG; TUR; URD; TAM; VIE,ENG; POL; BOS; HRV; SRP; SQI; TUR; ARA; FAS; PUS; PRS; URD; TAM; VIE; TIR; SOM,BOS; HRV; SRP; TUR; ARA; FAS; URD; TAM; VIE; SOM; SPA
+,,,,,,,,
+7.6. Questionnaire in migrant language,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+"7.7. If ""yes"", which",English,Norwegian; English; Spanish; Serbo-Croatian; Albanian; Urdu; Vietnamese,Norwegian; English; Urdu; Somali,Norwegian; English; Urdu; Somali,Norwegian; English; Urdu; Somali; Polish; Lithuanian,English; Turkish (Turkey); Urdu (Pakistan); Tamil (Sri Lanka); Vietnamese (Vietnam),"English; Polish (Poland); Bosnian, Croatian, Serbian (Bosnia and Herzegovina); Albanian (Kosovo); Turkish (Turkey); Arabic (Iraq); Persian/Farsi (Iran); Pashto (Afghanistan); Dari (Afghanistan); Urdu (Pakistan); Tamil (Sri Lanka); Vietnamese (Vietnam); Tigrinya (Eritrea); Somali (Somalia)","Bosnian, Croatian, Serbian (Bosnia and Herzegovina); Turkish (Turkey); Arabic (Iraq); Persian/Farsi (Iran); Urdu (Pakistan); Tamil (Sri Lanka); Vietnamese (Vietnam); Somali (Somalia); Spanish"
+7.7a. Questionnaire in migrant language in ISO code,ENG,NOR; ENG; SPA; HBS; SQI; URD; VIE,NOR; ENG; URD; SOM,NOR; ENG; URD; SOM,NOR; ENG; URD; SOM; POL; LIT,ENG; TUR; URD; TAM; VIE,ENG; POL; BOS; HRV; SRP; SQI; TUR; ARA; FAS; PUS; PRS; URD; TAM; VIE; TIR; SOM,BOS; HRV; SRP; TUR; ARA; FAS; URD; TAM; VIE; SOM; SPA
+,,,,,,,,
+7.8. Average duration/length of interview (minutes),7,-99.Information not available,10.5,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know
+,,,,,,,,
+7.9. Number of questions,18,7,29,31,29,42,49,71
+,,,  ,,,,,
+7.10. Additional comments to section 7,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+8. Availability,,,,,,,,
+8.1. Availability of the survey dataset,3.Available by request,3.Available by request,3.Available by request,3.Available by request,3.Available by request,3.Available by request,3.Available by request,3.Available by request
+,,,,,,,,
+"8.2. If available, where is the dataset stored",http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2072&mode=documentation&top=yes&language=en,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD0818&mode=documentation&top=yes&language=en,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2070&mode=documentation&top=yes&language=en,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2071&mode=documentation&top=yes&language=en ,https://www.ssb.no/valg/artikler-og-publikasjoner/velgerundersokelsen-2015?fane=om#content,The dataset is available through the larger dataset (Living Conditions Among Immigrants in Norway 2016): http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2442&language=en&mode=documentation&top=yes,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2442&language=en&mode=documentation&top=yes,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2442&language=en&mode=documentation&top=yes
+,,,,,,,,
+8.3. ID number of archive where dataset is stored,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know
+,,,,,,,,
+8.4. DOI for the dataset,doi:10.18712/NSD-NSD2072-V1,doi:10.18712/NSD-NSD0818-V4,doi:10.18712/NSD-NSD2070-V1,doi:10.18712/NSD-NSD2071-V1,-9.Don't know,doi:10.18712/NSD-NSD2442-V1,doi:10.18712/NSD-NSD2442-V1,doi:10.18712/NSD-NSD0991-V4
+,,,,,,,,
+8.5. Access to complete dataset,"2.Yes, but micro-data only available for online analyses","2.Yes, but micro-data only available for online analyses","3.Yes, but micro-data only available to analyse on a secure office/premises of the data archive or data producer","2.Yes, but micro-data only available for online analyses","2.Yes, but micro-data only available for online analyses","2.Yes, but micro-data only available for online analyses","2.Yes, but micro-data only available for online analyses","1.Yes, micro-data available for download/direct access by researchers"
+,,,,,,,,
+8.6. Access to portions of dataset,0.No,0.No,0.No,0.No,0.No,0.No,0.No,0.No
+,,,,,,,,
+8.7. Access to aggregate data results,0.No,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes,1.Yes
+,,,,,,,,
+"8.8. Restrictions for data access, describe which",Available to researchers through an application process.,Available to researchers through an application process.,Available to researchers through an application process.,Available to researchers through an application process.,Available to researchers through an application process.,Available to researchers through an application process.,Available to researchers through an application process.,Available to researchers through an application process.
+,,,,,,,,
+8.9. Dataset language(s) available ,Norwegian; English,Norwegian,Norwegian,Norwegian (maybe in English as well),Norwegian,Norwegian; English,Norwegian; English,Norwegian; English
+8.9a. Dataset language(s) in ISO code,NOR; ENG,NOR,NOR,NOR,NOR,NOR; ENG,NOR; ENG,NOR; ENG
+,,,,,,,,
+8.10. Availability of survey doc. & questionnaire ,"1.Yes, publicly available","1.Yes, publicly available","1.Yes, publicly available","1.Yes, publicly available","1.Yes, publicly available","1.Yes, publicly available","1.Yes, publicly available","1.Yes, publicly available"
+,,,,,,,,
+"8.11. If available, where is the survey doc. stored",https://www.ssb.no/valg/artikler-og-publikasjoner/velgerundersokelse-blant-personer-med-innvandrerbakgrunn-2013,https://www.ssb.no/a/publikasjoner/pdf/notat_200001/notat_200001.pdf,https://www.ssb.no/a/publikasjoner/pdf/notat_201132/notat_201132.pdf,https://www.ssb.no/valg/artikler-og-publikasjoner/undersokelse-om-stemmegivning-blant-personer-med-innvandringsbakgrunn,https://www.ssb.no/valg/artikler-og-publikasjoner/_attachment/275502?_ts=1569c8005b8,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2442&language=en&mode=documentation&top=yes,https://www.ssb.no/sosiale-forhold-og-kriminalitet/artikler-og-publikasjoner/_attachment/309526?_ts=15c361c0140,https://www.ssb.no/a/publikasjoner/pdf/notat_200805/notat_200805.pdf
+,,,,,,,,
+8.12. ID number of archive where survey doc. is stored,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know
+,,,,,,,,
+8.13. DOI for the documentation,ISBN  978-82-537-8970-5 (electronic version),-9.Don't know,ISBN 978-82-537-8164-8 (electronic version),ISBN 978-82-537-8544-8 (electronic version),ISBN 978-82-537-9369-6 (electronic version),ISBN 978-82-537-9761-8 (electronic version),ISBN 978-82-537-9541-6 (electronic version),doi:10.18712/NSD-NSD0991-V4
+,,,,,,,,
+"8.14. If the technical documentation is available, standard used for the documentation",-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know
+,,,,,,,,
+8.15. Language(s) in which technical survey documentation is available,Norwegian; English,"Documentation report (Norwegian); Questionnaire (Norwegian, English, Spanish, Serbo-Croatian, Albanian, Urdu, Vietnamese)","Documentation report (Norwegian); Questionnaire (Norwegian, English, Urdu, Somali)","Documentation report (Norwegian); Questionnaire (Norwegian, English, Urdu, Somali)","Documentation report (Norwegian); Questionnaire (English, Urdu, Somali, Polish, Lithuanian)","Documentation report (Norwegian); Questionnaire (Turkish, Urdu, Tamil, Vietnamese)",Documentation report (Norwegian),"Bosnian, Croatian, Serbian (Bosnia and Herzegovina); Turkish (Turkey); Arabic (Iraq); Persian/Farsi (Iran); Urdu (Pakistan); Tamil (Sri Lanka); Vietnamese (Vietnam); Somali (Somalia); Spanish"
+8.15a. Language(s) of technical survey documentation in ISO code,NOR; ENG,NOR; ENG; SPA; HBS; SQI; URD; VIE,NOR; ENG; URD; SOM,NOR; ENG; URD; SOM,NOR; ENG; URD; SOM; POL; LIT,NOR; TUR; URD; TAM; VIE,NOR,BOS; HRV; SRP; TUR; ARA; FAS; URD; TAM; VIE; SOM; SPA
+,,,,,,,,
+8.16. Availability of the survey questionnaire for individual research use,1. Publicly available,1. Publicly available,1. Publicly available,1. Publicly available,1. Publicly available,3. Available by request,3. Available by request,3. Available by request
+,,,,,,,,
+"8.17. If available, where is the survey questionnaire stored",https://www.ssb.no/valg/artikler-og-publikasjoner/_attachment/187258?_ts=1471f88c1d0,https://www.ssb.no/a/publikasjoner/pdf/notat_200001/notat_200001.pdf,https://www.ssb.no/a/publikasjoner/pdf/notat_201132/notat_201132.pdf,https://www.ssb.no/valg/artikler-og-publikasjoner/undersokelse-om-stemmegivning-blant-personer-med-innvandringsbakgrunn,https://www.ssb.no/valg/artikler-og-publikasjoner/velgerundersokelsen-2015,https://nsd.no/nsd/english/orderform.html,https://nsd.no/nsd/english/orderform.html,https://nsd.no/nsd/english/orderform.html
+,,,,,,,,
+8.18. Identification number of the archive / repository where questionnaire is stored,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know
+,,,,,,,,
+8.19. DOI for the questionnaire ,ISBN 978-82-537-8970-5,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know,-9.Don't know
+,,,,,,,,
+8.20. Language(s) in which survey questionnaire is available,Norwegian; English,Norwegian; English; Spanish; Serbo-Croatian; Albanian; Urdu; Vietnamese,Norwegian; English; Urdu; Somali,Norwegian; English; Urdu; Somali,Norwegian; English; Urdu; Somali; Polish; Lithuanian,Turkish; Urdu; Tamil; Vietnamese,"English; Polish (Poland); Bosnian, Croatian, Serbian (Bosnia and Herzegovina); Albanian (Kosovo); Turkish (Turkey); Arabic (Iraq); Persian/Farsi (Iran); Pashto (Afghanistan); Dari (Afghanistan); Urdu (Pakistan); Tamil (Sri Lanka); Vietnamese (Vietnam); Tigrinya (Eritrea); Somali (Somalia)","Bosnian, Croatian, Serbian (Bosnia and Herzegovina); Turkish (Turkey); Arabic (Iraq); Persian/Farsi (Iran); Urdu (Pakistan); Tamil (Sri Lanka); Vietnamese (Vietnam); Somali (Somalia); Spanish"
+8.20a. Language(s) of survey questionnaire in ISO code,NOR; ENG,NOR; ENG; SPA; HBS; SQI; URD; VIE,NOR; ENG; URD; SOM,NOR; ENG; URD; SOM,NOR; ENG; URD; SOM; POL; LIT,TUR; URD; TAM; VIE,ENG; POL; BOS; HRV; SRP; SQI; TUR; ARA; FAS; PUS; PRS; URD; TAM; VIE; TIR; SOM,BOS; HRV; SRP; TUR; ARA; FAS; URD; TAM; VIE; SOM; SPA
+,,,,,,,,
+8.21. Comments relevant to variables in section 8 (on data availability),-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+"9. Data producers, owners, distributors and citations",,,,,,,,
+9.1. Institution/team responsible for data production,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå
+9.2. Institution/team that owns the data,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå
+9.3. Institution/team distributing the dataset,Norwegian Social Science Data Services/NSD,Norwegian Social Science Data Services/NSD,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå
+9.4. Contact details for queries/request,Dataset (http://www.nsd.uib.no/bestilledata/survey/); Technical documentation (https://www.ssb.no/valg/artikler-og-publikasjoner/velgerundersokelse-blant-personer-med-innvandrerbakgrunn-2013); Questionnaire (https://www.ssb.no/valg/artikler-og-publikasjoner/_attachment/187258?_ts=1471f88c1d0), Dataset (http://www.nsd.uib.no/bestilledata/survey/); Technical documentation (https://www.ssb.no/a/publikasjoner/pdf/notat_200001/notat_200001.pdf); Questionnaire (https://www.ssb.no/a/publikasjoner/pdf/notat_200001/notat_200001.pdf),Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Dataset (http://www.nsd.uib.no/bestilledata/survey/); Technical documentation (https://www.ssb.no/valg/artikler-og-publikasjoner/_attachment/275502?_ts=1569c8005b8); Questionnaire (https://www.ssb.no/valg/artikler-og-publikasjoner/velgerundersokelsen-2015),Dataset (http://www.nsd.uib.no/bestilledata/survey/); Technical documentation (http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2442&language=en&mode=documentation&top=yes),Dataset (http://www.nsd.uib.no/bestilledata/survey/); Technical documentation (https://www.ssb.no/sosiale-forhold-og-kriminalitet/artikler-og-publikasjoner/_attachment/309526?_ts=15c361c0140),Dataset (http://www.nsd.uib.no/bestilledata/survey/); Technical documentation (https://www.ssb.no/a/publikasjoner/pdf/notat_200805/notat_200805.pdf)
+9.5. Citation for dataset,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå
+9.6. Citation for technical documentation,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå
+9.7. Citation(s) for any other publications,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå,Statistics Norway/Statistisk sentralbyrå
+9.8. Comments:,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+10. Additional information,,,,,,,,
+10.1 Data quality (for internal use only),8.,8.,8.,8.,8.,8.,8.,8.
+,,,,,,,,
+10.2. Additional information on data quality,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable
+,,,,,,,,
+10.3. Sources of information,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2072&mode=documentation&top=yes&language=en,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD0818&mode=documentation&top=yes&language=en,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2070&mode=documentation&top=yes&language=en,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2071&mode=documentation&top=yes&language=en ,https://www.ssb.no/valg/artikler-og-publikasjoner/velgerundersokelsen-2015?fane=om#content,The dataset is available through the larger dataset (Living Conditions Among Immigrants in Norway 2016): http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2442&language=en&mode=documentation&top=yes,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2442&language=en&mode=documentation&top=yes,http://nsddata.nsd.uib.no/webview/index.jsp?v=2&node=0&+target=&submode=ddi&study=http%3A%2F%2F129.177.90.161%3A80%2Fobj%2FfStudy%2FNSD2442&language=en&mode=documentation&top=yes
+,,,,,,,,
+10.4. Any other comments about the survey,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable,-999.Not applicable

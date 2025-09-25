@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- module name : ethmigsurveydataDDIPrototype.xml -->
+<!-- module in-charge : alexandre.mairot@sciencespo.fr (CDSP) -->
+<!-- module title : PROTOTYPE DDI2 ETHMIGSURVEYDATA -->
+<!-- module program : XML DDI -->
+<!-- module version date : 2019-06-21 -->
