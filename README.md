@@ -360,7 +360,7 @@ Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
 For support and questions:
 
-- **Email**: sshoc.project@sciencespo.fr
+- **Email**: ethmigsurveydata@sciencespo.fr
 - **Documentation**: Check the `/nova` admin panel for detailed guides
 - **Issues**: Report bugs and feature requests through the issue tracker
 
