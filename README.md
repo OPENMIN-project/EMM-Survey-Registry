@@ -68,21 +68,22 @@ Commercial use is not permitted without prior permission.
 ## **Installation and Deployment**
 
 
-1) Clone the repository
+**1) Clone the repository**
 
 Run the following commands in your terminal:
+
 
 ```git clone https://github.com/your-repo/ethmig.git```
 
 ```cd ethmig```
 
-2) Install dependencies
+**2) Install dependencies**
 
 ```composer install```
 
 ```npm install```
 
-3) Configure the environment
+**3) Configure the environment**
 
 Copy the example environment file and generate a new application key:
 
@@ -92,21 +93,21 @@ Copy the example environment file and generate a new application key:
 
 Edit the .env file to configure database, mail, and search (Elasticsearch) settings.
 
-4) Run migrations and seed initial data
+**4) Run migrations and seed initial data**
 
 ```php artisan migrate```
 
 ```php artisan db:seed```
 
-5) Build frontend assets
+**5) Build frontend assets**
 
 ```npm run dev```
 
-6) Start the development server
+**6) Start the development server**
 
 ```php artisan serve```
 
-Docker Deployment
+**Docker Deployment**
 
 Copy the example Docker environment file:
 
@@ -114,7 +115,7 @@ Copy the example Docker environment file:
 
 Start containers and run the same installation steps inside the Docker environment.
 
-Production Mode
+**Production Mode**
 
 Set the following in your .env file:
 
@@ -130,7 +131,7 @@ Caches for performance:
 
 ```php artisan view:cache```
 
-Database and Search Configuration
+**Database and Search Configuration**
 
 The system uses MySQL for persistence (configured in .env).
 For enhanced search, configure Elasticsearch locally or via Docker.
@@ -143,7 +144,7 @@ Initialize search mappings and rebuild index:
 
 These commands create the necessary mappings and synchronize database contents with the search index.
 
-Data Import and Sample Database
+**Data Import and Sample Database**
 
 A sample dataset is provided for testing.
 
@@ -157,7 +158,7 @@ For spreadsheets with multiple sheets:
 
 Sample files are located in the repository’s misc/ directory.
 
-Testing and Quality Assurance
+**Testing and Quality Assurance**
 
 Run the test suite:
 
@@ -167,12 +168,12 @@ Run a specific test class:
 
 ```php artisan test --filter SurveyTest```
 
-Documentation and User Resources
-	•	General introduction: https://ethmigsurveydatahub.eu/emmregistry/
-	•	Conditions of use of metadata: https://ethmigsurveydatahub.eu/conditions-of-use-of-the-emm-survey-registry-and-its-metadata/
+**Documentation and User Resources**
+•	General introduction: https://ethmigsurveydatahub.eu/emmregistry/
+•	Conditions of use of metadata: https://ethmigsurveydatahub.eu/conditions-of-use-of-the-emm-survey-registry-and-its-metadata/
 
 
-Support
+**Support**
 
 For questions or technical support, contact:
 ethmigsurveydata@sciencespo.fr
