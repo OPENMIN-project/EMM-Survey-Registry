@@ -30,7 +30,8 @@ The system is designed to **facilitate discovery and curation** without imposing
 ## **Technical Description**
 
 The system is built on **Laravel** (open-source PHP framework) for a stable, extensible backend.  
-The administrative UI uses **Laravel Nova**, providing controlled data entry, revision, and validation.
+The administrative interface uses **Laravel Nova**, which is paid software and not open-source.
+A valid Nova license is required for use on production sites.
 
 **Core technologies:**
 - **Search & indexing:** Elasticsearch (full-text search and fast retrieval)  
